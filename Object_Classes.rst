@@ -71,17 +71,6 @@
     # Car(model="Accord",make="Honda",color="blue")
             
 
-
-::
-
-
-      File "<ipython-input-4-c5212d0d008f>", line 1
-        Using the Class Car in the lab, create a Car object with the following attributes:
-                ^
-    SyntaxError: invalid syntax
-
-
-
 .. code:: ipython3
 
     x=1
